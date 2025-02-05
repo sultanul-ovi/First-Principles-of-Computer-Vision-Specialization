@@ -1,5 +1,6 @@
 # 📷 Course 1: Camera and Imaging
 
+
 ## 📌 Course Outline
 
 ### 🏁 Week 1: Introduction
