@@ -1,4 +1,4 @@
-# Week 3 Image Sensing Assignment
+# Week 3 Image Sensing Quiz
 
 ---
 

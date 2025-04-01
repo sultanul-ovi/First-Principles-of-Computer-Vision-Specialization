@@ -1,4 +1,4 @@
-# Week 2 Image Formation Quiz
+# Week 2 Image Formation Assignment
 
 ---
 
