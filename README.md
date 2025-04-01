@@ -26,6 +26,8 @@ As someone passionate about **AI and computer vision**, I wanted to go beyond ju
 🔹 Exploring **color sensing, HDR imaging, and binary vision**  
 🔹 Learning **image filtering techniques** to enhance vision
 
+![cert](certificates/C1_Certificate.jpg)
+
 ---
 
 ### 🎯 Features and Boundaries (6 Modules)
