@@ -2,6 +2,9 @@
 
 ## 📚 Coursera Specialization | 5 In-Depth Courses
 
+## Course Link: [First Principles of Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision)
+![Certificate](certificates/Certificate.jpg)
+
 ### 🔍 Why I Took This Specialization
 
 As someone passionate about **AI and computer vision**, I wanted to go beyond just using pre-trained models and actually **understand how vision works**—from the physics of light to the algorithms behind object recognition. This **5-course specialization** took me on a **deep dive** into the **mathematics, physics, and core principles** that form the backbone of modern computer vision.
