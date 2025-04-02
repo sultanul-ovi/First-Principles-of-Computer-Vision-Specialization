@@ -32,7 +32,7 @@ As someone passionate about **AI and computer vision**, I wanted to go beyond ju
 
 ---
 
-### 🎯 Features and Boundaries (6 Modules) | [Coursera](https://www.coursera.org/learn/features-and-boundaries?specialization=firstprinciplesofcomputervision) | [Assignments](Course_02_Features_and_Boundaries/readme.md) | [Certificate](Course_01_Camera_and_Imaging/C1_Certificate.jpg)
+### 🎯 Features and Boundaries (6 Modules) | [Coursera](https://www.coursera.org/learn/features-and-boundaries?specialization=firstprinciplesofcomputervision) | [Assignments](Course_02_Features_and_Boundaries/readme.md) | [Certificate](Course_02_Features_and_Boundaries/C2_Certificate.jpg)
 
 🔹 Detecting edges, corners, and interest points in images  
 🔹 Using **SIFT-based feature matching** for panorama stitching  
