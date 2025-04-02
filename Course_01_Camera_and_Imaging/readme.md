@@ -1,6 +1,6 @@
 # 📷 Course 1: Camera and Imaging
 
-![cert](Course_01_Camera_and_Imaging/C1_Certificate.jpg)
+![cert](C1_Certificate.jpg)
 
 ## 📌 Course Outline
 
