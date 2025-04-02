@@ -1,7 +1,5 @@
-# 🚀 My Journey Through the First Principles of Computer Vision Specialization
-
 ![Certificate](docs/vision.png)
-![Certificate](docs/vision2.png)
+<!-- ![Certificate](docs/vision2.png) -->
 
 
 ## 📚 Coursera Specialization | 5 In-Depth Courses
