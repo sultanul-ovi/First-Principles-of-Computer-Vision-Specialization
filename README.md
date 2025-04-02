@@ -1,4 +1,5 @@
 ![Certificate](docs/vision.png)
+
 <!-- ![Certificate](docs/vision2.png) -->
 
 # Course Link: [First Principles of Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision)
@@ -28,7 +29,6 @@ As someone passionate about **AI and computer vision**, I wanted to go beyond ju
 🔹 Understanding **CMOS & CCD sensors**, resolution, and dynamic range  
 🔹 Exploring **color sensing, HDR imaging, and binary vision**  
 🔹 Learning **image filtering techniques** to enhance vision
-
 
 ---
 
