@@ -3,6 +3,7 @@
 ## 📚 Coursera Specialization | 5 In-Depth Courses
 
 ## Course Link: [First Principles of Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision)
+
 ![Certificate](certificates/Certificate.jpg)
 
 ### 🔍 Why I Took This Specialization
@@ -22,14 +23,13 @@ As someone passionate about **AI and computer vision**, I wanted to go beyond ju
 
 ## 📜 Courses Breakdown
 
-### 📷 Camera and Imaging (6 Modules) [Assignments](Course_01_Camera_and_Imaging) 
+### 📷 Camera and Imaging (6 Modules) [Coursera](https://www.coursera.org/learn/cameraandimaging?specialization=firstprinciplesofcomputervision)[Assignments](Course_01_Camera_and_Imaging) [Certificate](Course_01_Camera_and_Imaging/C1_Certificate.jpg)
 
 🔹 How images are formed with **lens cameras**  
 🔹 Understanding **CMOS & CCD sensors**, resolution, and dynamic range  
 🔹 Exploring **color sensing, HDR imaging, and binary vision**  
 🔹 Learning **image filtering techniques** to enhance vision
 
-![cert](certificates/C1_Certificate.jpg)
 
 ---
 
