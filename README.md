@@ -22,7 +22,7 @@ As someone passionate about **AI and computer vision**, I wanted to go beyond ju
 
 ## 📜 Courses Breakdown
 
-### 📷 Camera and Imaging (6 Modules)
+### 📷 Camera and Imaging (6 Modules) [Assignments](Course_01_Camera_and_Imaging) 
 
 🔹 How images are formed with **lens cameras**  
 🔹 Understanding **CMOS & CCD sensors**, resolution, and dynamic range  
