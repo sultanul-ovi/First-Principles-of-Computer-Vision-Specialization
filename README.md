@@ -23,7 +23,7 @@ As someone passionate about **AI and computer vision**, I wanted to go beyond ju
 
 ## 📜 Courses Breakdown
 
-### 📷 Camera and Imaging (6 Modules) | [Coursera](https://www.coursera.org/learn/cameraandimaging?specialization=firstprinciplesofcomputervision) | [Assignments](Course_01_Camera_and_Imaging) | [Certificate](Course_01_Camera_and_Imaging/C1_Certificate.jpg)
+### 📷 Camera and Imaging (6 Modules) | [Coursera](https://www.coursera.org/learn/cameraandimaging?specialization=firstprinciplesofcomputervision) | [Assignments](Course_01_Camera_and_Imaging/readme.md) | [Certificate](Course_01_Camera_and_Imaging/C1_Certificate.jpg)
 
 🔹 How images are formed with **lens cameras**  
 🔹 Understanding **CMOS & CCD sensors**, resolution, and dynamic range  
@@ -32,7 +32,7 @@ As someone passionate about **AI and computer vision**, I wanted to go beyond ju
 
 ---
 
-### 🎯 Features and Boundaries (6 Modules)
+### 🎯 Features and Boundaries (6 Modules) | [Coursera](https://www.coursera.org/learn/features-and-boundaries?specialization=firstprinciplesofcomputervision) | [Assignments](Course_02_Features_and_Boundaries/readme.md) | [Certificate](Course_01_Camera_and_Imaging/C1_Certificate.jpg)
 
 🔹 Detecting edges, corners, and interest points in images  
 🔹 Using **SIFT-based feature matching** for panorama stitching  
@@ -40,7 +40,7 @@ As someone passionate about **AI and computer vision**, I wanted to go beyond ju
 
 ---
 
-### 🏗 3D Reconstruction - Single Viewpoint (6 Modules)
+### 🏗 3D Reconstruction - Single Viewpoint (6 Modules) | [Coursera](https://www.coursera.org/learn/3d-reconstruction---single-viewpoint?specialization=firstprinciplesofcomputervision) | [Assignments](Course_03_3D_Reconstruction_Single_Viewpoint/readme.md) | [Certificate](Course_01_Camera_and_Imaging/C1_Certificate.jpg)
 
 🔹 Estimating **scene depth and surface orientation**  
 🔹 Mastering **Shape from Shading** and **Photometric Stereo**  
@@ -48,7 +48,7 @@ As someone passionate about **AI and computer vision**, I wanted to go beyond ju
 
 ---
 
-### 🔄 3D Reconstruction - Multiple Viewpoints (5 Modules)
+### 🔄 3D Reconstruction - Multiple Viewpoints (5 Modules) | [Coursera](https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints?specialization=firstprinciplesofcomputervision) | [Assignments](Course_04_3D_Reconstruction_Multiple_Viewpoints/readme.md) | [Certificate](Course_01_Camera_and_Imaging/C1_Certificate.jpg)
 
 🔹 Building **3D structures from multiple images**  
 🔹 Understanding **camera calibration and stereo vision**  
@@ -57,7 +57,7 @@ As someone passionate about **AI and computer vision**, I wanted to go beyond ju
 
 ---
 
-### 🧠 Visual Perception (5 Modules)
+### 🧠 Visual Perception (5 Modules) | [Coursera](https://www.coursera.org/learn/perception?specialization=firstprinciplesofcomputervision) | [Assignments](Course_05_Visual_Perception/readme.md) | [Certificate](Course_01_Camera_and_Imaging/C1_Certificate.jpg)
 
 🔹 Tracking objects & background subtraction  
 🔹 Segmenting images into **meaningful object regions**  
